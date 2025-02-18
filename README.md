@@ -6,10 +6,10 @@ This project is an AI-powered resume screening system that leverages FastAPI, Po
 
 ## 📸 Screenshots
 
-![🛠️ Tech Stack ](images/screenshot1.png)
+![🛠️ Tech Stack ](images/Screenshot1.png)
 
 
-![File Structure](images/screenshot2.png)
+![File Structure](images/Screenshot2.png)
 
 
 ******************************************************************************************************
